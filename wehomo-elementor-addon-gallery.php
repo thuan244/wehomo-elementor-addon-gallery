@@ -31,4 +31,4 @@ function wehomo_elementor_gallery_dependencies() {
 
 
 }
-add_action( 'wp_enqueue_scripts', 'wehomo_elementor_gallery_dependencies' );
+add_action( 'wp_enqueue_scripts', 'wehomo_elementor_gallery_dependencies' ); 
